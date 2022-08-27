@@ -3,6 +3,8 @@
 + redux-toolkit
 + react-router-dom
 
+# Project was created by Reactjs and reviewed redux-toolkit
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
